@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/adam/catkin_ws/devel/include",
+                    "/opt/ros/kinetic/include",
+                    "/home/adam/catkin_ws/src/canalyst/canalystii_node/include",
+                    "/home/adam/catkin_ws/src/ros_best_practices/ros_package_template/include",
+                    "/home/adam/catkin_ws/src/ros_practice/include",
+                    "/home/adam/catkin_ws/src/coffeecar/ros/src/socketcan_bridge/include",
+                    "/home/adam/catkin_ws/src/coffeecar/ros/src/socketcan_interface/include",
+                    "/usr/include"
+                ]
+            },
+            "includePath": [
+                "/home/adam/catkin_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/adam/catkin_ws/src/canalyst/canalystii_node/include",
+                "/home/adam/catkin_ws/src/ros_best_practices/ros_package_template/include",
+                "/home/adam/catkin_ws/src/ros_practice/include",
+                "/home/adam/catkin_ws/src/coffeecar/ros/src/socketcan_bridge/include",
+                "/home/adam/catkin_ws/src/coffeecar/ros/src/socketcan_interface/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 3
+}
